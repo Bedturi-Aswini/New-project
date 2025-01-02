@@ -1,6 +1,6 @@
 #  ENTNT Technical Assignment : Calendar Application for Communication Tracking
 ## 2ND UI DESIGN
-<img width="1467" alt="image" src="https://github.com/user-attachments/assets/0597a6e1-3cdc-493f-a568-bc478e714dde" />
+<img width="1467" alt="image" src="https://github.com/Bedturi-Aswini/New-project.git" />
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/659b3b75-56c1-47f5-9616-d9882fd10de4" />
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/979e334b-fcd4-411c-9002-341e63585616" />
 <img width="1468" alt="image" src="https://github.com/user-attachments/assets/35cdfa15-cddd-4a35-8589-58ed7d57a581" />
